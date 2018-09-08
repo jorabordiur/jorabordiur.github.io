@@ -1,27 +1,37 @@
 body {
 	margin: 0;
 	text-align: center;
-  background: url( jorabordiur.github.io/IMG_0547_resized.JPG ) no-repeat center center fixed; 
-  }
+
+	  background: url(IMG_0547_resized.jpg) no-repeat center center fixed; 
+  
+  
+}
+
+
 
 h1 {
 	font-size: 52px;
   	font-family: Palatino, 'Palatino Linotype', serif;
   	color: #E5C50F;
-	}
+	
+}
 
 h3 {
 	font-size: 26px;
-  	font-family: Palatino, 'Palatino Linotype', serif;
-  	color: #39EFF2;
+  	font-family: Times, 'Palatino Linotype', times new roman;
+  	color: white;
+
+
 }
+
 
 .hero {
 	padding: 160px 0;
 	margin: 120px;
-  	font-family: Palatino, 'Palatino Linotype', serif;
+  	font-family: Times,'Palatino Linotype', serif;
       	color: black;
   }
+
 
 p {
   	font-size: 2rem;
@@ -37,6 +47,8 @@ p {
 #footer{
   	font-size: 0.75rem;
 	color: white;
+	position:fixed;
+
   
 }
 
