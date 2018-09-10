@@ -26,8 +26,8 @@ h3 {
 
 
 .hero {
-	padding: 160px 0;
-	margin: 120px;
+	padding: 100px 0;
+	margin: 190px;
   	font-family: Times,'Palatino Linotype', serif;
       	color: black;
   }
@@ -47,7 +47,9 @@ p {
 #footer{
   	font-size: 0.75rem;
 	color: white;
-	position:fixed;
+	position:fixed; bottom:0;
+	width:100%;
+    	display:block;
 
   
 }
